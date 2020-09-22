@@ -3,7 +3,7 @@ import React from 'react';
 export const Header = () => {
     return (
         <h1>
-            Expence Tracker by Asad
+            Expense Tracker by Adil Altaf
         </h1>
     )
 }
